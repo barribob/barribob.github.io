@@ -37,6 +37,16 @@ p {
     margin-bottom: 20px;
 }
 
+.button-container {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.button-container .button {
+    margin-bottom: 0;
+}
+
 .gif-container {
     display: flex;
     justify-content: space-between;
